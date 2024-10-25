@@ -1,6 +1,6 @@
 
 
-##### Hi there, I'm Huan👋👋👋
+# Hi there, I'm Huan👋👋👋
 
 🏫 I’m currently studying in FPT University
 
