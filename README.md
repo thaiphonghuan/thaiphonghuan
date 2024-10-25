@@ -4,7 +4,7 @@
 
 🤖 Learning about the Faculty of Artificial Intelligence
 
-😊 Contact me directly on my [Facebook](https://www.facebook.com/profile.php?id=61566458431982)<br/> or [Email](huantpce180685@fpt.edu.vn)<br/>
+😊 Contact me directly on my [Facebook](https://www.facebook.com/profile.php?id=61566458431982)<br/>
 <br/><br/>
 
 # 💻 Expertise
