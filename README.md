@@ -1,4 +1,6 @@
-# Hi there, I'm Phong Huan (Fuxun)! 👋
+# Hi there, I'm [Your Name]! 👋
+
+Welcome to my GitHub profile! Here's a bit about me:
 
 ## 🚀 About Me
 - 🎓 I'm currently learning and working on projects in **Artificial Intelligence (AI)**.
@@ -25,14 +27,14 @@
 
 ## ✨ Featured GIF
 
-![Featured GIF](https://media.giphy.com/media/aQFiKGhqerg2Y/giphy.gif)
-
+<div align="center">
+  <img src="https://media.giphy.com/media/aQFiKGhqerg2Y/giphy.gif" alt="Featured GIF" width="480" height="286" style="border-radius: 8px;">
+</div>
 
 ## 🌱 Current Focus
 I'm diving deeper into:
 - Building intelligent systems with **NLP** and **LLMs**.
-- Enhancing computer vision capabilities with **OpenCV**.
-- Optimizing cloud workflows using **AWS**.
+- Conducting scientific research.
 
 ## 📫 Get in Touch
 - **Email**: [your.email@example.com](mailto:your.email@example.com)
