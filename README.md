@@ -1,12 +1,30 @@
 # Hi there, I'm Phong Huan (Fuxun)! 👋
-
-Welcome to my GitHub profile! Here's a bit about me:
+<a href="https://instagram.com/fuxu.n" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/thaiphonghuan" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/thai-phong-huan-1150642b1" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<br>
+<br>
 
 ## 🚀 About Me
-- 🎓 I'm currently learning and working on projects in **Artificial Intelligence (AI)**.
-- 💻 My primary tech stack includes:
+<div style="display: flex; align-items: center;">
+  <div>
+    <ul>
+      <li>I'm currently learning <strong>Artificial Intelligence (AI)</strong>.</li>
+      <li>Working on projects in NLP and LLMs.</li>
+    </ul>
+  </div>
+  <img src="https://animemiru.jp/wp-content/uploads/2018/05/rr02-640x399.png" alt="Anime Image" style="width: 300px; margin-left: 20px; border-radius: 8px;">
+</div>
 
-### 🛠️ Tools & Technologies
+<br>
+
+## 🛠️ Tools & Technologies
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" height="40">
@@ -25,16 +43,16 @@ Welcome to my GitHub profile! Here's a bit about me:
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu" height="40">
 </div>
 
-## ✨ Featured GIF
-
-<div align="center">
-  <img src="https://media.giphy.com/media/aQFiKGhqerg2Y/giphy.gif" alt="Featured GIF" width="480" height="286" style="border-radius: 8px;">
-</div>
+<br>
 
 ## 🌱 Current Focus
 I'm diving deeper into:
 - Building intelligent systems with **NLP** and **LLMs**.
 - Conducting scientific research.
 
-Thanks for stopping by! 😊
+<br>
 
+## 🎥 YouTube Channel
+<a href="https://www.youtube.com/channel/YOUR_CHANNEL_ID" target="_blank">
+  <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube">
+</a>
