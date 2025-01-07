@@ -1,6 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
-
-Welcome to my GitHub profile! Here's a bit about me:
+# Hi there, I'm Phong Huan (Fuxun)! 👋
 
 ## 🚀 About Me
 - 🎓 I'm currently learning and working on projects in **Artificial Intelligence (AI)**.
