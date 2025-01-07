@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Phong Huan (Fuxun)! 👋
 
 Welcome to my GitHub profile! Here's a bit about me:
 
@@ -35,11 +35,6 @@ Welcome to my GitHub profile! Here's a bit about me:
 I'm diving deeper into:
 - Building intelligent systems with **NLP** and **LLMs**.
 - Conducting scientific research.
-
-## 📫 Get in Touch
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Portfolio**: [Your Portfolio Website](https://yourwebsite.com)
 
 Thanks for stopping by! 😊
 
