@@ -25,10 +25,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 ## ✨ Featured GIF
 
-<div style="text-align:center;">
-  <iframe src="https://giphy.com/embed/aQFiKGhqerg2Y" width="480" height="286" style="border:none;" allowFullScreen></iframe>
-  <p><a href="https://giphy.com/gifs/code-geass-lelouch-aQFiKGhqerg2Y">via GIPHY</a></p>
-</div>
+![GIF](https://media.giphy.com/media/aQFiKGhqerg2Y/giphy.gif)
 
 ## 🌱 Current Focus
 I'm diving deeper into:
