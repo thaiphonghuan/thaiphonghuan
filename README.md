@@ -8,6 +8,9 @@
 <a href="https://linkedin.com/in/thai-phong-huan-1150642b1" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="www.youtube.com/@huanthai5961" target="_blank">
+  <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube">
+</a>
 <br>
 <br>
 
@@ -19,8 +22,16 @@
       <li>Working on projects in NLP and LLMs.</li>
     </ul>
   </div>
-  <img src="https://animemiru.jp/wp-content/uploads/2018/05/rr02-640x399.png" alt="Anime Image" style="width: 300px; margin-left: 20px; border-radius: 8px;">
+  <img src="./d0bd612c-8ffd-4530-ad41-9847f7d807e5.webp" alt="Anime Image" style="width: 300px; margin-left: 20px; border-radius: 8px;">
 </div>
+
+
+<br>
+
+## 🌱 Current Focus
+I'm diving deeper into:
+- Building intelligent systems with **NLP** and **LLMs**.
+- Conducting scientific research.
 
 <br>
 
@@ -42,17 +53,3 @@
   <img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" alt="Arduino" height="40">
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu" height="40">
 </div>
-
-<br>
-
-## 🌱 Current Focus
-I'm diving deeper into:
-- Building intelligent systems with **NLP** and **LLMs**.
-- Conducting scientific research.
-
-<br>
-
-## 🎥 YouTube Channel
-<a href="https://www.youtube.com/channel/YOUR_CHANNEL_ID" target="_blank">
-  <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube">
-</a>
