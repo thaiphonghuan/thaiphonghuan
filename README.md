@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/thai-phong-huan-1150642b1" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="www.youtube.com/@huanthai5961" target="_blank">
+<a href="https://www.youtube.com/@huanthai5961" target="_blank">
   <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube">
 </a>
 <br>
