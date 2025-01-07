@@ -24,15 +24,6 @@
   </div>
   <img src="./d0bd612c-8ffd-4530-ad41-9847f7d807e5.webp" alt="Anime Image" style="width: 300px; margin-left: 20px; border-radius: 8px;">
 </div>
-
-
-<br>
-
-## 🌱 Current Focus
-I'm diving deeper into:
-- Building intelligent systems with **NLP** and **LLMs**.
-- Conducting scientific research.
-
 <br>
 
 ## 🛠️ Tools & Technologies
@@ -53,3 +44,11 @@ I'm diving deeper into:
   <img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" alt="Arduino" height="40">
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu" height="40">
 </div>
+
+<br>
+
+## 🌱 Current Focus
+I'm diving deeper into:
+- Building intelligent systems with **NLP** and **LLMs**.
+- Conducting scientific research.
+
