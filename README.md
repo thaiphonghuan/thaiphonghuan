@@ -25,9 +25,8 @@
 
 ## ✨ Featured GIF
 
-<div align="center">
-  <img src="https://media.giphy.com/media/aQFiKGhqerg2Y/giphy.gif" alt="Featured GIF" width="480" height="286" style="border-radius: 8px;">
-</div>
+![Featured GIF](https://media.giphy.com/media/aQFiKGhqerg2Y/giphy.gif)
+
 
 ## 🌱 Current Focus
 I'm diving deeper into:
