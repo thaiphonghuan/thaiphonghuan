@@ -1,11 +1,5 @@
-## 🚀 About Me
+## 🚀 Contact
 <div style="display: flex; align-items: center;">
-  <div>
-    <ul>
-      <li>I'm currently learning <strong>Artificial Intelligence (AI)</strong>.</li>
-      <li>Working on projects in NLP and LLMs.</li>
-    </ul>
-  </div>
   <img src="./d0bd612c-8ffd-4530-ad41-9847f7d807e5.webp" alt="Anime Image" style="width: 300px; margin-left: 20px; border-radius: 8px;">
 </div>
 <br>
