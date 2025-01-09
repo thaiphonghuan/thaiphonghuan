@@ -1,4 +1,14 @@
-# Hi there, I'm Phong Huan (Fuxun)! 👋
+## 🚀 About Me
+<div style="display: flex; align-items: center;">
+  <div>
+    <ul>
+      <li>I'm currently learning <strong>Artificial Intelligence (AI)</strong>.</li>
+      <li>Working on projects in NLP and LLMs.</li>
+    </ul>
+  </div>
+  <img src="./d0bd612c-8ffd-4530-ad41-9847f7d807e5.webp" alt="Anime Image" style="width: 300px; margin-left: 20px; border-radius: 8px;">
+</div>
+<br>
 <a href="https://instagram.com/fuxu.n" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
@@ -11,20 +21,6 @@
 <a href="https://www.youtube.com/@huanthai5961" target="_blank">
   <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube">
 </a>
-<br>
-<br>
-
-## 🚀 About Me
-<div style="display: flex; align-items: center;">
-  <div>
-    <ul>
-      <li>I'm currently learning <strong>Artificial Intelligence (AI)</strong>.</li>
-      <li>Working on projects in NLP and LLMs.</li>
-    </ul>
-  </div>
-  <img src="./d0bd612c-8ffd-4530-ad41-9847f7d807e5.webp" alt="Anime Image" style="width: 300px; margin-left: 20px; border-radius: 8px;">
-</div>
-<br>
 
 ## 🛠️ Tools & Technologies
 
