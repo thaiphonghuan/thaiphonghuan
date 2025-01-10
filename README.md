@@ -35,10 +35,5 @@
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu" height="40">
 </div>
 
-<br>
 
-## 🌱 Current Focus
-I'm diving deeper into:
-- Building intelligent systems with **NLP** and **LLMs**.
-- Conducting scientific research.
 
