@@ -1,8 +1,3 @@
-## 🚀 Contact
-<div style="display: flex; align-items: center;">
-  <img src="./d0bd612c-8ffd-4530-ad41-9847f7d807e5.webp" alt="Anime Image" style="width: 300px; margin-left: 20px; border-radius: 8px;">
-</div>
-<br>
 <a href="https://instagram.com/fuxu.n" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
