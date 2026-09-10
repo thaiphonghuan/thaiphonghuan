@@ -4,7 +4,7 @@
 <a href="https://github.com/thaiphonghuan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/thai-phong-huan-1150642b1" target="_blank">
+<a href="https://www.linkedin.com/in/phong-huan-thai-07b77b424/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/@huanthai5961" target="_blank">
